@@ -1,0 +1,225 @@
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.Development.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.exe
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.deps.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.runtimeconfig.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Humanizer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.AssemblyReference.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfoInputs.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfo.cs
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CoreCompileInputs.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cs
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.build.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.development.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.WebDangKyKhamChuaBenh.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\scopedcss\bundle\WebDangKyKhamChuaBenh.styles.css
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CopyComplete
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\refint\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.genruntimeconfig.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\ref\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\Backend\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.Development.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.exe
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.deps.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.runtimeconfig.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Humanizer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.AssemblyReference.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfoInputs.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfo.cs
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CoreCompileInputs.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cs
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.build.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.development.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.WebDangKyKhamChuaBenh.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebDangKyKhamChuaBenh.props
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\scopedcss\bundle\WebDangKyKhamChuaBenh.styles.css
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CopyComplete
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\refint\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.genruntimeconfig.cache
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\ref\WebDangKyKhamChuaBenh.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\DevOne.Security.Cryptography.BCrypt.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\MailKit.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\MimeKit.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\CryptHash.Net.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Konscious.Security.Cryptography.Argon2.dll
+D:\HK2 2023-2024\Khóa luận\A_Khóa Luận\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Konscious.Security.Cryptography.Blake2.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.Development.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\appsettings.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.exe
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.deps.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.runtimeconfig.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\DevOne.Security.Cryptography.BCrypt.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\CryptHash.Net.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Humanizer.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Konscious.Security.Cryptography.Argon2.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Konscious.Security.Cryptography.Blake2.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\MailKit.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\MimeKit.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.AssemblyReference.cache
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.GeneratedMSBuildEditorConfig.editorconfig
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfoInputs.cache
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.AssemblyInfo.cs
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CoreCompileInputs.cache
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cs
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.MvcApplicationPartsAssemblyInfo.cache
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.build.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.development.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.WebDangKyKhamChuaBenh.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.build.WebDangKyKhamChuaBenh.props
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebDangKyKhamChuaBenh.props
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebDangKyKhamChuaBenh.props
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\staticwebassets.pack.json
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\scopedcss\bundle\WebDangKyKhamChuaBenh.styles.css
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.csproj.CopyComplete
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\refint\WebDangKyKhamChuaBenh.dll
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.pdb
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\WebDangKyKhamChuaBenh.genruntimeconfig.cache
+D:\KhoaLuan\WebDangKyKhamChuaBenh\WebDangKyKhamChuaBenh\obj\Debug\net6.0\ref\WebDangKyKhamChuaBenh.dll
