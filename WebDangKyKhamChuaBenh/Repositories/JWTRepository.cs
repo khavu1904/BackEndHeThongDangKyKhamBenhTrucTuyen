@@ -59,7 +59,7 @@ namespace WebDangKyKhamChuaBenh.Repositories
             await _context.SaveChangesAsync();
             return model.MaBN; // Trả về MaBN sau khi lưu vào cơ sở dữ liệu
         }
-        public async Task UpdateBenhNhanAsync(int maBN, BenhNhan model)
+        public async Task UpdateBenhNhanAsync(int maBN, BenhNhan model) /*Cập nhật lại thông tin trong jwt của hệ thống*/
         {
             var existingBenhNhan = await _context.BenhNhan.FindAsync(maBN);
             if (existingBenhNhan == null)
